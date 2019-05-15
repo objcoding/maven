@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 15 20:06:29 CST 2019
+oracle-11.2.0.1.0.pom>=
+oracle-11.2.0.1.0.jar>=
